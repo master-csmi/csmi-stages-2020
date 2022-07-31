@@ -1,0 +1,26 @@
+[cols="1,1,2,4"]
+|===
+| Nom | Prénom | Entreprise | Sujet
+
+| Algis | David | link:[Quasarts] | _Développement de fonctionnalités de l'application Keyplan 3D_
+
+| Alyildiz | Baris | link:[Heig-Vd] | _Détection de fraudes bancaires à l'aide de deep learning_
+
+| Bestard | Mickael | link:[Cnrs Delegation Alsace] | _Modèles de trafic sur graphe et optimisation du temps de parcours_
+
+| Bois | Léo | link:https://www.inria.fr/fr/centre-inria-nancy-grand-est[Inria Nancy Grand Est] | _Modèle réduit pour Vlasov-Poisson avec intelligence artificielle_
+
+| Galmiche | Pierre | link:[General Electric Medical Systems Scs] | _Analyse d’indicateurs de qualité d’image en scanner_
+
+| Hadetskyi | Vadym | link:[Vivialys Services] | _Le stage se déroule dans le domaine de la recherche et du développement. Son objectif principal est de développer et de mettre en œuvre de multiples méthodes basées sur l'IA pour améliorer l'expérience client et la stratégie marketing de l'entreprise. Le stage couvre quelques uns des projets actuellement développés, tels que le développement d'un chatbot ou l'automatisation d'un système de modularité._
+
+| Jenny | Antoine | link:https://www.vossloh.com[Vossloh Cogifer] | _Gestion d’un corpus de données et validation d’indices qualité identifiés_
+
+| Rafilipojaona | Manoa Fahazavana | link:http://www.altran.fr[Altran Technologies] | _ANAGREEN - Analyse Global de_x000D_
+Récupération d’énergie_
+
+| Ritzenthaler | Valentin | link:[General Electric Medical Systems Scs] | _Normalisation de données hospitalières en radiologie_
+
+| Rosemann | Simon | link:http://www.hager.fr[Hager Electro Sas] | _Gestion de l'énergie dans un bâtiment autonome._
+
+|===
