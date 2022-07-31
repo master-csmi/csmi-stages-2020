@@ -13,7 +13,7 @@
 
  - [[[Jenny]]] Jenny Antoine, _Gestion d’un corpus de données et validation d’indices qualité identifiés_, link:https://www.vossloh.com[Vossloh Cogifer], link:{attachmentsdir}/++Jenny-Antoine.pdf++[Jenny-Antoine.pdf],  link:{attachmentsdir}/++Jenny-Antoine-slides.pdf++[Jenny-Antoine-slides.pdf] 
 
- - [[[Rafilipojaona]]] Rafilipojaona Manoa Fahazavana, _Anagreen - analyse global de_x000d_
+ - [[[Rafilipojaona]]] Rafilipojaona Manoa Fahazavana, _Anagreen - analyse global de
 récupération d’énergie_, link:http://www.altran.fr[Altran Technologies], link:{attachmentsdir}/++Rafilipojaona-Manoa Fahazavana.pdf++[Rafilipojaona-Manoa Fahazavana.pdf],  link:{attachmentsdir}/++Rafilipojaona-Manoa Fahazavana-slides.pdf++[Rafilipojaona-Manoa Fahazavana-slides.pdf] 
 
  - [[[Ritzenthaler]]] Ritzenthaler Valentin, _Normalisation de données hospitalières en radiologie_, link:[General Electric Medical Systems Scs], link:{attachmentsdir}/++Ritzenthaler-Valentin.pdf++[Ritzenthaler-Valentin.pdf],  link:{attachmentsdir}/++Ritzenthaler-Valentin-slides.pdf++[Ritzenthaler-Valentin-slides.pdf] 
