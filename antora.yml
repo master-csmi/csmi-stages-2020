@@ -1,6 +1,6 @@
 name: csmi-stages-2020
-title: Master CSMI 2020
-version: master
+title: Master CSMI Stages/Internships 2020
+version: ~
 start_page: ROOT:index.adoc
 asciidoc: 
   attributes: 
